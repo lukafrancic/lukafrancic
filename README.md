@@ -1,6 +1,16 @@
-- 👋 Hi, I’m @lukafrancic
-- 👀 I’m interested in engineering
+Hi, I’m Luka Frančič 👋
 
+I’m a mechanical engineer that does some coding time to time.
+
+Some of my personal projects that I managed to finish (and not just leave unattended as per usual)
+
+### Sand table
+
+A homemade sand table with a polar CS based kinematics design.
+
+<a href="https://github.com/lukafrancic/Sand-table/tree/main">
+  <img src="https://github.com/lukafrancic/Sand-table/blob/main/data/img_sand_table.jpg" alt="Sand Table" width="400">
+</a>
 
 <!---
 lukafrancic/lukafrancic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
